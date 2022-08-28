@@ -35,7 +35,7 @@ class ViewController: UIViewController {
     @IBAction func changeText(_ sender: Any) {
         self.view.endEditing(true)
         if TextField.text?.isEmpty == true {
-            TextLabel.text = "Goodbye!👋"
+            TextLabel.text = "Goodbye 👋"
         } else {
         TextLabel.text = TextField.text
             TextField.text = ""
