@@ -16,7 +16,7 @@ class ViewController: UIViewController {
     @IBAction func didTap(_ sender: UITapGestureRecognizer) {
         print("Tapped", sender)
         TextLabel.textColor = UIColor.black
-        TextLabel.text = "Hello World"
+        TextLabel.text = "Hello from Lauren"
         view.backgroundColor = UIColor.cyan
     }
     
