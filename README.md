@@ -5,7 +5,7 @@ This application displays a Hello message to the user and allows the user to mod
 ### App Walk-though
 
 
-<img src="http://g.recordit.co/FJltsaCyeo.gif" width=200><br>
+<img src="http://g.recordit.co/wDiixEFFF4.gif" width=200><br>
 
 
 ### Required User Stories
