@@ -3,11 +3,10 @@
 This application displays a Hello message to the user and allows the user to modify and customize certain features of the main view
 
 ### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
 
-<img src="YOUR_GIF_URL_HERE" width=200><br>
 
-`TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
+<img src="http://g.recordit.co/LNTD0YWn6q.gif" width=200><br>
+
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
